@@ -5,7 +5,7 @@
 | 标签 | 大模型 |
 | 日期 | 2026-06-05 |
 | 原文链接 | [原始链接](https://mp.weixin.qq.com/s/Oo0iksfTXvUSFNnBrWOOpw) |
-| 本地文件 | [查看原文](../articles_html/2026-06-05-我知道的所有Agentic-Engineering技巧.html) |
+| 本地文件 | [查看原文](https://xiongdage92.github.io/Personal_Docs_Base/articles_html/2026-06-05-我知道的所有Agentic-Engineering技巧.html) |
 
 ---
 
