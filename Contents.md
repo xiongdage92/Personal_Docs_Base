@@ -4,3 +4,4 @@
 |------|------|----------|------|----------|----------|
 | 我知道的所有 Agentic Engineering 技巧（2026 年 6 月） | 大模型 | 2026-06-05 | articles/2026-06-05-我知道的所有Agentic-Engineering技巧.md | [原文](https://mp.weixin.qq.com/s/Oo0iksfTXvUSFNnBrWOOpw) | [HTML](https://xiongdage92.github.io/Personal_Docs_Base/articles_html/2026-06-05-我知道的所有Agentic-Engineering技巧.html) |
 | 超级个体时代｜腾讯研究院3万字报告 | 大模型 | 2026-06-08 | articles/2026-06-08-超级个体时代-腾讯研究院3万字报告.md | [原文](https://mp.weixin.qq.com/s/GZqTLfeOrfrLgG-R2bOjGw) | [HTML](https://xiongdage92.github.io/Personal_Docs_Base/articles_html/2026-06-08-超级个体时代-腾讯研究院3万字报告.html) |
+| 建议大家不要跟「已经产生隔阂的人示好」 | 心理 | 2026-06-09 | articles/2026-06-09-建议大家不要跟已经产生隔阂的人示好.md | [原文](https://mp.weixin.qq.com/s/CcUnnpiFKVqNAe6UsY1wnw) | [HTML](https://xiongdage92.github.io/Personal_Docs_Base/articles_html/2026-06-09-weixin-article.html) |
